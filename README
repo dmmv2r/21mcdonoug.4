@@ -1,2 +1,12 @@
 Name: Donovan McDonough
-Date: 3/29/2021
+Date: 4/4/2021
+Project 4
+
+Compile project using command "make"
+Clean up folder using command "make clean"
+
+Run program using command "./oss", extension "-h" for help.
+
+Version control accomplished using Git and GitHub. Project name is "21mcdonoug.4" under username "dmmv2r". Can also follow link "github.com/dmmv2r/21mcdonoug.4".
+
+WARNING: Program does not compile and therefore does not run/run properly. Had a lot of trouble with project and made many attempts at accomplishing project so majority of segments of code were found online and I tried to combine them to work but was unsuccessful. As a result, code may seem sloppy.
